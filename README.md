@@ -33,7 +33,7 @@ Identifying peak hours can help the operator optimize:
 
 ## 📊 Dataset
 
-The dataset contains coffee vending machine transaction records. The data set can be accessed via [Kaggle](https://www.kaggle.com/datasets/ihelon/coffee-sales).
+The dataset contains coffee vending machine transaction records. The dataset can be accessed via [Kaggle](https://www.kaggle.com/datasets/ihelon/coffee-sales).
 
 | Column | Description |
 |---|---|
